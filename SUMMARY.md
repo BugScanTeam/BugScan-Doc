@@ -10,7 +10,7 @@
 	* [插件模版](chapter2/2-1.md)
 	* [assign](chapter2/2-2.md)
 	* [audit](chapter2/2-3.md)
-	* [curl2](chapter2/2-4.md)
+	* [hackhttp](chapter2/2-4.md)
 	* [report](chapter2/2-5.md)
 	* [util](chapter2/2-6.md)
 	* [task_push](chapter2/2-7.md)
