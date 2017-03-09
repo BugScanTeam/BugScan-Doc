@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [BugScan 插件开发文档](README.md)
 * [快速入门](chapter1/1.md)
 	* [环境配置](chapter1/1-1.md)
 	* [编写插件](chapter1/1-2.md)
