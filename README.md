@@ -8,4 +8,4 @@ Python实现引擎, 无任何依赖的第三方库，高效插件可用户自定
 
 本文档旨在帮助漏洞插件社区开发者编写插件， 加入到漏洞插件社区中，成为我们的一员，体验自动化漏洞挖掘。
 
-官网地址：[https://www.bugscan.net/](https://www.bugscan.net/)
+官网地址：[http://www.bugscan.net/](http://www.bugscan.net/)
