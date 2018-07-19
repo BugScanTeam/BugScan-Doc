@@ -10,7 +10,7 @@
 
 ![](/assets/1111.png)
 
-1. 按照要求填写特征信息，提交即可。更多问题在提交页面中有说明。可在\[BugScan--漏洞插件社区--指纹列表\]\([http://www.bugscan.net/source/template/fingers/\)中查看该应用是否已存在。](http://www.bugscan.net/source/template/fingers/%29中查看该应用是否已存在。)
+1. 按照要求填写特征信息，提交即可。更多问题在提交页面中有说明。可在\[BugScan--漏洞插件社区--指纹列表\]\([http://www.bugscan.net/source/template/fingers/ \) 中查看该应用是否已存在。](http://www.bugscan.net/source/template/fingers/%29中查看该应用是否已存在。)
 
 \#\#\#\# 特征格式标准
 
@@ -218,7 +218,7 @@
 
 3. 测试代码：在SDK下调用下的测试代码，应写在\`if \_\_name\_\_ == '\_\_main\_\_'\` 下面
 
-4. 具体插件编写格式见：\[BugScan 插件开发文档\]\([http://doc.bugscan.net/\](http://doc.bugscan.net/\)\)
+4. 具体插件编写格式见：\[BugScan 插件开发文档\]\([http://doc.bugscan.net/\](http://doc.bugscan.net/%29\)
 
 \#\#\#\# 插件审核标准
 
